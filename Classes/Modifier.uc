@@ -1,7 +1,7 @@
 /*
 |------------------------------------------------------|
-|                     ZoneModify                       |
-|             Created by Dark1 (22/10/2022)            |
+|                ZoneModify.Modifier                   |
+|            Created by Dark1 (22/10/2022)             |
 |    Licensed under GNU General Public License v3.0    |
 |------------------------------------------------------|
 */
