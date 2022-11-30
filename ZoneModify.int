@@ -1,2 +1,3 @@
 [Public]
 Object=(Name=ZoneModify.Modifier,Class=Class,MetaClass=Engine.Mutator,Description="Zone Modifier")
+Preferences=(Caption="Zone Modifier",Parent="Advanced Options",Class=ZoneModify.Modifier,Immediate=True)
